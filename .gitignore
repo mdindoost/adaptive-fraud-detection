@@ -5,3 +5,12 @@ results/
 *.pyc
 __pycache__/
 .env
+Miniconda3-latest-Linux-x86_64.sh
+Miniconda3-latest-Linux-x86_64.sh
+data/
+logs/
+results/
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.env
